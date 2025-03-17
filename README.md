@@ -160,7 +160,11 @@ plt.show()
 ```bash
 spark.stop()
 ```
-## Hình ảnh minh họa
-
+## Kết Quả
 Dưới đây là biểu đồ xu hướng tỷ lệ mắc bệnh trung bình toàn cầu theo thời gian:
 ![Biểu đồ tỷ lệ mắc bệnh](images/1.jpg)
+![Biểu đồ tỷ lệ hồi phục](images/2.jpg)
+![Biểu đồ tỷ lệ tử vong](images/3.jpg)
+![Biểu đồ top 10 quốc gia có tỷ lệ tử vong cao nhất](images/4.jpg)
+![Biểu đồ % chính xác](images/5.jpg)
+
